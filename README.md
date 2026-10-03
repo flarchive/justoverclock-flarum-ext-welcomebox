@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of justoverclock/flarum-ext-welcomebox.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/flarum-ext-welcomebox) or the [upstream repository](https://github.com/justoverclockl/flarum-ext-welcomebox).
 
-**0** versions archived · Latest: [`3.0.0`](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tree/archive/v3.0.0) · License: `MIT` · Flarum: `^v2.0.0-beta.1`
+**39** versions archived · Latest: [`3.0.0`](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tree/archive/v3.0.0) · License: `MIT` · Flarum: `^v2.0.0-beta.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-04-29 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-04-29 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-04-30 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-04-30 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-04-30 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tree/archive/v0.1.4) |
+| `0.1.5` | 2021-04-30 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tree/archive/v0.1.5) |
+| `0.1.6` | 2021-04-30 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tree/archive/v0.1.6) |
+| `0.1.7` | 2021-05-14 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tree/archive/v0.1.7) |
+| `1.1.2` | 2021-04-29 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tree/archive/v1.1.2) |
+| `1.1.3` | 2021-04-30 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tree/archive/v1.1.3) |
+
+[View all 39 versions](https://github.com/flarchive/justoverclock-flarum-ext-welcomebox/tags)
 
 Catalog entry: [packages/justoverclock-flarum-ext-welcomebox.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-flarum-ext-welcomebox.json)
 
